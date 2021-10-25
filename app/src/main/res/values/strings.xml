@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">5x5</string>
+    <string name="buttonstart">Start</string>
+    <string name="click_but">Вы нажали на кнопку</string>
+    <string name="textView">Pizda</string>
+    <string name="vihod">Exit</string>
+    <string name="Newgame">NewGame</string>
+    <string name="info">Info</string>
+    <string name="createbut">Start</string>
+    <string name="menu">menu</string>
+    <string name="Normal">Normal</string>
+    <string name="hard">Hard</string>
+    <string name="one_hand">One hand</string>
+    <string name="bots">Bot</string>
+</resources>
